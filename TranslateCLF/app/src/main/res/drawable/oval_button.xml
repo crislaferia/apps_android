@@ -1,0 +1,5 @@
+<!-- oval_button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#514F4F" />
+    <corners android:radius="50dp" /> <!-- Este valor define o raio do oval, ajuste conforme necessário -->
+</shape>

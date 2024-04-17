@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marcas">
+
+    <TextView
+        android:id="@+id/ti_marcas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo_marcas"
+        android:textAlignment="center"
+        android:textSize="24pt"
+        app:layout_constraintBottom_toTopOf="@+id/img_marcas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.6" />
+
+    <ImageView
+        android:id="@+id/img_marcas"
+        android:layout_width="216dp"
+        android:layout_height="211dp"
+        android:layout_marginTop="136dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/marca1" />
+
+    <Spinner
+        android:id="@+id/sp_marcas"
+        android:layout_width="280dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="44dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_marcas" />
+
+    <TextView
+        android:id="@+id/trad_marca"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="56dp"
+        android:text="@string/trad_marca"
+        android:textAlignment="center"
+        android:textSize="16pt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.564"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sp_marcas" />
+
+    <Button
+        android:id="@+id/btn_marca"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="56dp"
+        android:background="@drawable/oval_button"
+        android:backgroundTint="#514F4F"
+        android:onClick="play"
+        android:text="@string/btn_animal"
+        android:textAlignment="center"
+        android:textColor="#F9F9F9"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.564"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/trad_marca" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opfrutas"
+        android:title="@string/btn_frutas" />
+    <item
+        android:id="@+id/opanimais"
+        android:title="@string/btn_animais" />
+    <item
+        android:id="@+id/opmarcas"
+        android:title="@string/btn_marcas" />
+    <item
+        android:id="@+id/opsair"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:title="@string/opSair"
+        app:showAsAction="always" />
+</menu>

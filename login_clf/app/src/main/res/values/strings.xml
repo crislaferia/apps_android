@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">login_clf</string>
+    <string name="insiranome">Nome</string>
+    <string name="insiraemail">Email</string>
+    <string name="insiranif">NIF</string>
+    <string name="insiratelef">Telefone</string>
+    <string name="insiralogin">Login</string>
+    <string name="insirapass">Password</string>
+    <string name="tituloregisto">REGISTO</string>
+    <string name="btnregisto">REGISTAR</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TranslateCLF</string>
+    <string name="reproduzir">REPRODUZIR</string>
+    <string name="title_activity_menu2">menu2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="btn_frutas">FRUTAS</string>
+    <string name="btn_animais">ANIMAIS</string>
+    <string name="btn_marcas">MARCAS</string>
+    <string name="opSair">SAIR</string>
+    <string name="titulo_animais">Animais</string>
+    <string name="trad_animal">Raposa</string>
+    <string name="btn_animal">OUVIR</string>
+    <string name="trad_fruta">Papaia</string>
+    <string name="titulo_frutas">Frutas</string>
+    <string name="titulo_marcas">Marcas</string>
+    <string name="trad_marca">Mitsubishi</string>
+</resources>

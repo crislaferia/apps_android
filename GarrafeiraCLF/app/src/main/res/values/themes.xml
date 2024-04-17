@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GarrafeiraCLF" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">@color/black</item>
+
+
+    </style>
+
+    <style name="Theme.GarrafeiraCLF" parent="Base.Theme.GarrafeiraCLF" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title." parent="@android:style/TextAppearance">
+
+        <item name="android:textColor">@color/borda</item>
+    </style>
+
+</resources>

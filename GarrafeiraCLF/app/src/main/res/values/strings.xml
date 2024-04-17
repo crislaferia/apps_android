@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Garrafeira CLF</string>
+    <string name="optintos">Vinhos Tintos</string>
+    <string name="opbrancos">Vinhos Brancos</string>
+    <string name="opespirituosos">Bebidas Espirituosos</string>
+    <string name="opsair">Sair</string>
+    <string name="splashtitle">Garrafeira CLF</string>
+    <string name="vinhotinto1">Trinca Bolotas</string>
+    <string name="desctinto1">Vinho Regional Alentejano, ideal para carnes \n14.5% Teor Alcoólico</string>
+    <string name="precotinto1">6.99€</string>
+    <string name="vinhotinto2">Quinta do Vallado</string>
+    <string name="desctinto2">Vinho Regional Douro,  acompanhado com queijos e enchidos \n13.5% Teor Alcoólico</string>
+    <string name="precotinto2">8.25€</string>
+    <string name="vinhotinto3">Barca-Velha</string>
+    <string name="desctinto3">Vinho Regional Douro, para apreciadores de sabores apimentados, com notas balsâmicas, \n14,5% Teor Alcoólico</string>
+    <string name="precotinto3">899.90€</string>
+    <string name="vinhobranco1">Crasto</string>
+    <string name="vinhobranco2">Equilibrio</string>
+    <string name="vinhobranco3">Corela</string>
+    <string name="desbranco1">Vinho DOC Douro, combina com peixe e assados, \n13.5% Teor Alcoólico</string>
+    <string name="precobranco1">10.99€</string>
+    <string name="descbranco2">"Vinho da SierraNorte de Sevilha, combina com marisco e peixe, \n12% Teor Alcoolico "</string>
+    <string name="precobranco3">6.05€</string>
+    <string name="descbranco3">Vinho Alentejano, vibrante e citrico, 12% teor Alcoolico</string>
+    <string name="precobranco2">6.75€</string>
+    <string name="opEspirituosas">Espirituosas</string>
+    <string name="espirito1">Cachaça Pirassununga 51</string>
+    <string name="descespirito1">Cachaça, o sabor e aroma perfeito da original caipirinha brasileira.\n38% Teor Alcoólico</string>
+    <string name="precoesp1">11.75€</string>
+    <string name="espirito2">Malibu Coco</string>
+    <string name="descespirito2">Rum das Caraibas, com aroma de Coco, \n21 % Teor Alcoólico</string>
+    <string name="precoesp2">17.49€</string>
+    <string name="espirito3">Rum Bacardi Carta Blanca</string>
+    <string name="descespirito3">Bacardi, a tradição de um rum único e perfeito. \n37.50% Teor Alcoólico</string>
+    <string name="precoesp3">17.69€</string>
+</resources>

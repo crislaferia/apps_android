@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="titulo">MENU</string>
+    <string name="btn1">CONVERSOR</string>
+    <string name="hintmoedas">Insira Valor em Euros €</string>
+
+    <string-array name="moedas">
+        <item></item>
+    </string-array>
+</resources>

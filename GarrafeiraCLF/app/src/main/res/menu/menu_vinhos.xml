@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tintos"
+        android:icon="@drawable/vinhotintoicon"
+        android:title="@string/optintos"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/brancos"
+        android:icon="@drawable/vinhobrancoicon"
+        android:title="@string/opbrancos"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/espirituosos"
+        android:icon="@drawable/whiskey"
+        android:title="@string/opespirituosos"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/sair"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:title="@string/opsair"
+        app:showAsAction="ifRoom" />
+</menu>
